@@ -1,0 +1,167 @@
+#: locale=pt
+
+## Action
+
+### URL
+LinkBehaviour_9D0158D2_9362_BB89_41E1_75232750DE6B.source = https://maps.app.goo.gl/4T2vWsFaTF7VUFxa9
+LinkBehaviour_62459DAC_745B_BB27_41C1_7E9AC0A65C12.source = https://maps.app.goo.gl/4T2vWsFaTF7VUFxa9
+LinkBehaviour_9D02B8D0_9362_BB89_41D0_3317B3C327B1.source = https://wa.me/5543999032082?text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20tour%20360!
+LinkBehaviour_5AF066EC_7044_7F00_41C0_9E7FE1EE471B.source = https://wa.me/5543999032082?text=Ol%C3%A1%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20o%20tour%20360!
+LinkBehaviour_99D09172_8BBF_BC0E_41C4_E343AA0282D4.source = https://wa.me/5543999638963?text=Oi%2C%20gostaria%20de%20informa%C3%A7%C3%B5es%20da%20Casa%20do%20Emilson
+LinkBehaviour_9D0148D2_9362_BB89_41D5_60D250F12F57.source = https://wa.me/5543999638963?text=Oi%2C%20gostaria%20de%20informa%C3%A7%C3%B5es%20da%20Casa%20do%20Emilson
+LinkBehaviour_9D0208D0_9362_BB89_41CB_78EFDD06FD17.source = https://wa.me/5543999638963?text=Oi%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Casa%20do%20Emilson
+LinkBehaviour_99011B23_8B86_4C0E_4197_FD684A2162CD.source = https://wa.me/5543999638963?text=Oi%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Casa%20do%20Emilson
+LinkBehaviour_9D0268D2_9362_BB89_41CA_55E154F34560.source = https://wa.me/5543999638963?text=Oi%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Casa%20do%20Emilson
+LinkBehaviour_85402F10_8BBB_D107_41CB_64FC92ACE12D.source = https://wa.me/5543999638963?text=Oi%2C%20gostaria%20de%20mais%20informa%C3%A7%C3%B5es%20sobre%20a%20Casa%20do%20Emilson
+LinkBehaviour_5B29C8D8_70FC_3316_41D0_17FD8C5E55D5.source = https://wa.me/5555439996389?text=Oi%2C%20vim%20atrav%C3%A9s%20do%20Tour%20360
+LinkBehaviour_9D0228CE_9362_BB97_41B1_0C0A42D11895.source = https://wa.me/5555439996389?text=Oi%2C%20vim%20atrav%C3%A9s%20do%20Tour%20360
+PopupWebFrameBehaviour_9DFE38D4_9362_BB89_41DA_E0B808AF420E.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.7708982696126!2d-50.66343192580403!3d-23.178560347638218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94eadf4722063077%3A0x27a719174bc76b41!2sRua%20Guarapuava%2C%2040%20-%20Corn%C3%A9lio%20Proc%C3%B3pio%2C%20PR%2C%2086300-000!5e0!3m2!1spt-BR!2sbr!4v1737147159370!5m2!1spt-BR!2sbr
+PopupWebFrameBehaviour_615FC655_745B_B605_41BB_E7E140E529C6.url = https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3667.7708982696126!2d-50.66343192580403!3d-23.178560347638218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94eadf4722063077%3A0x27a719174bc76b41!2sRua%20Guarapuava%2C%2040%20-%20Corn%C3%A9lio%20Proc%C3%B3pio%2C%20PR%2C%2086300-000!5e0!3m2!1spt-BR!2sbr!4v1737147159370!5m2!1spt-BR!2sbr
+
+## Media
+
+### Audio
+audiores_749DA7B9_7960_DA7E_4190_0C6ED7851908.mp3Url = media/audio_74141FE8_7960_EA1E_41CD_0851E0D1227C_pt.mp3
+audiores_7532ADC2_7960_6E0D_41D8_2275F8862117.mp3Url = media/audio_747C4C7E_7960_2EF5_41D9_E263D3B93200_pt.mp3
+audiores_741DE7AC_7961_DA16_41AB_153B05466EAA.mp3Url = media/audio_7484B96B_7960_5612_41C3_25A2E5EC318E_pt.mp3
+audiores_754BA9D4_7960_5635_41B9_647B9BB5C395.mp3Url = media/audio_75C1B010_7960_D60D_41CA_3C907EA71DA0_pt.mp3
+audiores_771CAA83_7956_1443_41CC_EA2E90E535EF.mp3Url = media/audio_76386ED5_7956_0DC7_41D2_BBF4B26F4D93_pt.mp3
+audiores_776246AE_7956_1C45_41DD_A9B3D57F0555.mp3Url = media/audio_76483007_7956_1443_41C4_3FF8EB29C22E_pt.mp3
+audiores_74F8ED54_7960_6E35_41C1_AA6114477803.mp3Url = media/audio_771FDFE8_7960_2A1E_41BD_3798C3F5E8AE_pt.mp3
+audiores_740CDA0C_7960_2A15_419B_417B66941980.mp3Url = media/audio_7731764A_7960_5A1D_41D2_5B964685795B_pt.mp3
+audiores_91598CEF_803D_A063_41D2_424F1114BF6F.mp3Url = media/audio_908677BC_8025_A0E5_41D7_913A1376CBA1_pt.mp3
+audiores_91B06FD5_803E_60A7_41BA_4BC419752C7F.mp3Url = media/audio_90DAD772_8022_A07D_41D5_34E8AF35DAC4_pt.mp3
+audiores_91A5D2B9_803E_A0EF_41D2_DA2B391C9A7F.mp3Url = media/audio_9137DD3E_8022_A1E5_41CA_0562E08CD2FC_pt.mp3
+audiores_919DC819_803E_AFAF_41AB_876FEDF460D4.mp3Url = media/audio_9167EF7F_8022_E063_41D8_945D2FE71DF5_pt.mp3
+audiores_916019B9_803D_A0EF_41C7_36258913D47B.mp3Url = media/audio_94439CA4_8026_60E5_41D9_E6884990886B_pt.mp3
+
+### Audio Subtitles
+
+### Subtitle
+panorama_52A0BB44_584A_09CE_41A2_176C2A05744B.subtitle = garagerm
+
+### Title
+panorama_5360DC97_5846_0F49_4172_A809CAA8068A.label = acesso a suite
+panorama_52A36A6E_5846_0BDA_41D3_BDEC9B8A746A.label = acesso2 a suite
+panorama_52A0C911_5846_0949_41C2_6FF2F2330ED9.label = ante sala
+panorama_52A09937_5846_0949_41D0_5C09D41F7150.label = banheiro social
+panorama_52A0E7DD_5846_38FE_41D3_DEC305B0E5D4.label = banheiro suite
+panorama_52A0A708_5846_1946_41CD_5BB8407AD6D2.label = banheiro suite2
+panorama_52A0457D_5846_79BE_41B0_9126BFA6B09D.label = biblioteca e atelier
+panorama_52A05497_5846_1F49_41C7_FB0051EE42DB.label = cama da suite
+panorama_52A053B0_5846_3947_41D3_1B3A577722AA.label = churrasqueira
+panorama_52A092AC_5846_1B5E_41D4_875E5135C2FA.label = closet
+panorama_52A3B172_5845_F9CA_41CA_CA710CB34901.label = cozinha
+panorama_52A3B08D_584A_175E_41CE_B616C153A6B8.label = cozinha2
+panorama_52A3FF96_584A_094A_41D4_1225AADD200E.label = escada garagem
+panorama_52A38EE5_584A_08C9_41A6_55E3D5CDB94D.label = escada garagem2
+panorama_52A3CD8A_584A_095B_4190_11D10F0AABE8.label = escada lareira
+panorama_52A39D29_584A_0946_41D1_C7DA46DABA79.label = escada sala
+panorama_AB9F6542_9165_9B43_41BC_F271AF735A06.label = fachada
+panorama_52A0BB44_584A_09CE_41A2_176C2A05744B.label = garagem
+panorama_52A0CA20_584A_0B46_41CB_3B1EBE29C26B.label = hall
+panorama_8A95A918_8693_D499_41C2_8D30EDBDE846.label = jardim
+panorama_52A0196E_584A_09DA_41BA_2B5A057997DB.label = jogos e academia
+panorama_52A0B878_584A_77C6_41B4_435CAC4204B5.label = lareira
+panorama_52A06839_584A_1746_41B6_657FD9562307.label = lavanderia
+panorama_52A07742_584A_39CA_41A8_C78C475F1E86.label = piscina
+panorama_52A063F8_584A_78C7_41A8_11228A2C1482.label = piscina e churrasco
+panorama_52A006A2_584A_1B4B_41BC_AA74DEA1174E.label = quarto
+panorama_52A026D7_584B_F8CA_41CE_7D74779AC319.label = quintal
+panorama_52A036CA_584A_18DB_41CA_71CC0B7BDA90.label = sala de visita
+panorama_52A04C23_584A_0F4A_41D3_D8E12079A0F1.label = sala de visita2
+panorama_7F80D5F1_5A37_56C0_4171_EBEDF452FE99.label = sala tv
+panorama_52A06541_584A_19C6_41D2_C74B4AFF4889.label = suite2
+panorama_529E498F_5846_095A_41D2_619E5EE2E7C5.label = suite2 e quarto
+
+## Skin
+
+### Button
+Button_4E0F4463_6E65_03BA_41CA_1D973751156E.label =  PISCINA E CHURRASCO
+Button_4E0F4463_6E65_03BA_41CA_1D973751156E_mobile.label =  PISCINA E CHURRASCO
+Button_4FEC9DAB_6E65_1C8B_41BD_5C87C401E622_mobile.label = ACESSO A SUITE
+Button_4FEC9DAB_6E65_1C8B_41BD_5C87C401E622.label = ACESSO A SUITE
+Button_4E04C560_6E65_0DB6_41CF_9304C19D85A1.label = ACESSO2 A SUITE
+Button_4E04C560_6E65_0DB6_41CF_9304C19D85A1_mobile.label = ACESSO2 A SUITE
+Button_4E719881_6E65_0377_41D7_E2F31082E3F2.label = ANTE SALA
+Button_4E719881_6E65_0377_41D7_E2F31082E3F2_mobile.label = ANTE SALA
+Button_4EF0459A_6E65_0C8A_41C4_8ADACA701263_mobile.label = BANHEIRO SOCIAL
+Button_4EF0459A_6E65_0C8A_41C4_8ADACA701263.label = BANHEIRO SOCIAL
+Button_4E662CE7_6E65_1CBA_41B1_53DBE29072ED.label = BANHEIRO SUITE
+Button_4E662CE7_6E65_1CBA_41B1_53DBE29072ED_mobile.label = BANHEIRO SUITE
+Button_4E2A3DFE_6E65_7C8A_41BB_32FF2BB5E68C.label = BANHEIRO SUITE2
+Button_4E2A3DFE_6E65_7C8A_41BB_32FF2BB5E68C_mobile.label = BANHEIRO SUITE2
+Button_4E6BFC61_6E65_03B6_41CA_6DCAD6A35A3D_mobile.label = BIBLIOTECA E ATELIER
+Button_4E6BFC61_6E65_03B6_41CA_6DCAD6A35A3D.label = BIBLIOTECA E ATELIER
+Button_4E463390_6E65_0495_41DA_787BCC13C9AF_mobile.label = CAMA DA SUITE
+Button_4E463390_6E65_0495_41DA_787BCC13C9AF.label = CAMA DA SUITE
+Button_4E4714DA_6E65_0C8A_41BC_4A2A7BD89D78_mobile.label = CHURRASQUEIRA
+Button_4E4714DA_6E65_0C8A_41BC_4A2A7BD89D78.label = CHURRASQUEIRA
+Button_4E174146_6E65_05FA_41D6_176774643500_mobile.label = CLOSET
+Button_4E174146_6E65_05FA_41D6_176774643500.label = CLOSET
+Button_4F923559_6E65_0D96_41D2_1CFE960AB3FE_mobile.label = COZINHA
+Button_4F923559_6E65_0D96_41D2_1CFE960AB3FE.label = COZINHA
+Button_4E50D11D_6E65_058F_41D6_17BEAF03C8E8.label = COZINHA2
+Button_4E50D11D_6E65_058F_41D6_17BEAF03C8E8_mobile.label = COZINHA2
+Button_4E580E2F_6E65_3F8B_41BA_F63ED0A8E9B5_mobile.label = ESCADA  LAREIRA
+Button_4E580E2F_6E65_3F8B_41BA_F63ED0A8E9B5.label = ESCADA  LAREIRA
+Button_4E32EC6E_6E65_038A_41C6_1FA3A974D0D9.label = ESCADA GARAGEM
+Button_4E32EC6E_6E65_038A_41C6_1FA3A974D0D9_mobile.label = ESCADA GARAGEM
+Button_4E3DB830_6E65_0395_41C2_E64AD3E05A51.label = ESCADA GARAGEM2
+Button_4E3DB830_6E65_0395_41C2_E64AD3E05A51_mobile.label = ESCADA GARAGEM2
+Button_4F4409BF_6E65_048A_41D8_DC6315F821BB_mobile.label = ESCADA SALA
+Button_4F4409BF_6E65_048A_41D8_DC6315F821BB.label = ESCADA SALA
+Button_4F5A6504_6E65_0D7D_41D0_F5BF924D3D92_mobile.label = ESCADA2
+Button_4F5A6504_6E65_0D7D_41D0_F5BF924D3D92.label = ESCADA2
+Button_4F5C8668_6E6B_0FB5_41D5_2A859E7BF615.label = FACHADA
+Button_4F5C8668_6E6B_0FB5_41D5_2A859E7BF615_mobile.label = FACHADA
+Button_4F9D817B_6E65_058B_41B7_F34C14945A4F_mobile.label = HALL
+Button_4F9D817B_6E65_058B_41B7_F34C14945A4F.label = HALL
+Button_4FE4BEFB_6E65_1C8B_41D4_9769BB58D7B5.label = JARDIM
+Button_4FE4BEFB_6E65_1C8B_41D4_9769BB58D7B5_mobile.label = JARDIM
+Button_4E1E504C_6E65_038D_41D6_3B8808F22108_mobile.label = JOGOS E ACADEMIA
+Button_4E1E504C_6E65_038D_41D6_3B8808F22108.label = JOGOS E ACADEMIA
+Button_4EA8E9BD_6E65_048F_41CA_3828BE750FF2_mobile.label = LAREIRA
+Button_4EA8E9BD_6E65_048F_41CA_3828BE750FF2.label = LAREIRA
+Button_9B73C6A5_8BB5_7309_41D5_1D6068FDC254_mobile.label = LAVANDERIA
+Button_9B73C6A5_8BB5_7309_41D5_1D6068FDC254.label = LAVANDERIA
+Button_4E75B88E_6E65_048D_41CE_F030D409BD28.label = PISCINA
+Button_4E75B88E_6E65_048D_41CE_F030D409BD28_mobile.label = PISCINA
+Button_4E3429E8_6E65_04B5_41D6_031B7401C8F5_mobile.label = QUARTO
+Button_4E3429E8_6E65_04B5_41D6_031B7401C8F5.label = QUARTO
+Button_4EAE692D_6E65_058F_41B5_B5BC2C282BDD.label = QUINTAL
+Button_4EAE692D_6E65_058F_41B5_B5BC2C282BDD_mobile.label = QUINTAL
+Button_4F763EBE_6E65_1C8A_4150_346A400EDF69_mobile.label = SALA TV
+Button_4F763EBE_6E65_1C8A_4150_346A400EDF69.label = SALA TV
+Button_4FABE018_6E65_0395_41C6_3FAE6A9051BD.label = SALA VISITA
+Button_4FABE018_6E65_0395_41C6_3FAE6A9051BD_mobile.label = SALA VISITA
+Button_4FCE7616_6E65_0F9D_4185_865F70083B9A_mobile.label = SUITE2
+Button_4FCE7616_6E65_0F9D_4185_865F70083B9A.label = SUITE2
+Button_4FFFF9C8_6E65_04F6_41C8_D554828AA17A.label = SUITE2 E QUARTO
+Button_4FFFF9C8_6E65_04F6_41C8_D554828AA17A_mobile.label = SUITE2 E QUARTO
+
+### Image
+Image_4DAD3DB0_6DE7_03BA_41D5_F53032A04EC8_mobile.url = skin/Image_4DAD3DB0_6DE7_03BA_41D5_F53032A04EC8_mobile_pt.png
+Image_4DAD3DB0_6DE7_03BA_41D5_F53032A04EC8.url = skin/Image_4DAD3DB0_6DE7_03BA_41D5_F53032A04EC8_pt.png
+Image_617370EF_7459_EA05_41C0_1F6BBEC7290D_mobile.url = skin/Image_617370EF_7459_EA05_41C0_1F6BBEC7290D_mobile_pt.png
+Image_617370EF_7459_EA05_41C0_1F6BBEC7290D.url = skin/Image_617370EF_7459_EA05_41C0_1F6BBEC7290D_pt.png
+Image_7DF290B3_6617_6788_41C9_CCE2F1A6FC72_mobile.url = skin/Image_7DF290B3_6617_6788_41C9_CCE2F1A6FC72_mobile_pt.gif
+Image_7DF290B3_6617_6788_41C9_CCE2F1A6FC72.url = skin/Image_7DF290B3_6617_6788_41C9_CCE2F1A6FC72_pt.gif
+Image_B7FAF772_92ED_8743_41D1_C0F579743B14_mobile.url = skin/Image_B7FAF772_92ED_8743_41D1_C0F579743B14_mobile_pt.jpg
+Image_B7FAF772_92ED_8743_41D1_C0F579743B14.url = skin/Image_B7FAF772_92ED_8743_41D1_C0F579743B14_pt.jpg
+
+### Label
+Label_5A1831F6_7044_F503_41B9_4D5D1522A097.text = Desenvolvido por
+Label_5A1831F6_7044_F503_41B9_4D5D1522A097_mobile.text = Desenvolvido por
+
+### Multiline Text
+HTMLText_B5CFEE71_92A5_895E_41C2_0345E6B0F87D.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:4.201680672268908vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.2vh;font-family:'Calibri';"><B>DESCRIÇÃO DO IMÓVEL</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:3.7vh;">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">Área do Terreno: 800m2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;">  </SPAN><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">• </SPAN><SPAN STYLE="color:#0000ff;font-size:2.52vh;"> </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;">  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">Área de Construção: 550m2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;">  </SPAN><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">•  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Suite Master com Antesala, Jardim de Inverno, Closet e Banheiro com Hidromassagem</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Suite com Mesa para Estudo ou Trabalho</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Quarto com Cama de Casal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Banheiro Social com Chuveiro</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Sala com Lareira</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Sala de TV</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Sala de Visita Com 2 Ambientes</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Salão de Jogos, Festa e Academia</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Piscina </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Churrasqueira com Banheiro e Cozinha</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Cozinha Conjugada com Sala de Jantar</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Lavanderia</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Garagem para 6 Carros</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Jardim</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4800000000000013vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:3.48vh;font-family:'Calibri';"><B>OBSERVAÇÃO: </B></SPAN><SPAN STYLE="color:#0000ff;font-size:3.48vh;font-family:'Calibri';">Mobiliário e Eletro Eletrônicos Inclusos na Venda</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4800000000000013vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:3.48vh;font-family:'Calibri';">Aceita Área Rural ou Imóveis </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4800000000000013vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:3.48vh;font-family:'Calibri';">Valor: 1.600.000,00 reais</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+HTMLText_B5CFEE71_92A5_895E_41C2_0345E6B0F87D_mobile.html = <div style="text-align:left; color:#000; "><p STYLE="margin:0; line-height:7.83vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:center;font-size:4.201680672268908vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="font-size:4.2vh;font-family:'Calibri';"><B>DESCRIÇÃO DO IMÓVEL</B></SPAN></SPAN></DIV><p STYLE="margin:0; line-height:4.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:3.7vh;">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">Área do Terreno: 800m2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;">  </SPAN><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">• </SPAN><SPAN STYLE="color:#0000ff;font-size:2.52vh;"> </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;">  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">Área de Construção: 550m2</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;">  </SPAN><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">•  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Suite Master com Antesala, Jardim de Inverno, Closet e Banheiro com Hidromassagem</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Suite com Mesa para Estudo ou Trabalho</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Quarto com Cama de Casal</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Banheiro Social com Chuveiro</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Sala com Lareira</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Sala de TV</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Sala de Visita Com 2 Ambientes</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Salão de Jogos, Festa e Academia</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Piscina </SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Churrasqueira com Banheiro e Cozinha</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Cozinha Conjugada com Sala de Jantar</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Lavanderia</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Garagem para 6 Carros</SPAN></SPAN></DIV><DIV STYLE="text-align:left;font-size:3.6974789915966393vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:2.52vh;font-family:'Calibri';">  •  </SPAN><SPAN STYLE="color:#0000ff;font-size:3.7vh;font-family:'Calibri';">  Jardim</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4800000000000013vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:3.48vh;font-family:'Calibri';"><B>OBSERVAÇÃO: </B></SPAN><SPAN STYLE="color:#0000ff;font-size:3.48vh;font-family:'Calibri';">Mobiliário e Eletro Eletrônicos Inclusos na Venda</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4800000000000013vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:3.48vh;font-family:'Calibri';">Aceita Área Rural ou Imóveis </SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><DIV STYLE="text-align:left;font-size:3.4800000000000013vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#0000ff;font-size:3.48vh;font-family:'Calibri';">Valor: 1.600.000,00 reais</SPAN></SPAN></DIV><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.48vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:1.2vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p><p STYLE="margin:0; line-height:3.7vh;"><BR STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-size:1.09vh;font-family:Arial, Helvetica, sans-serif;"/></p></div>
+
+## Tour
+
+### Description
+tour.description = Faça um tour 360 graus
+
+### Title
+tour.name = Casa do Emilson
