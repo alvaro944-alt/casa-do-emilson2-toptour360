@@ -37,9 +37,9 @@
   }
  ],
  "display": "fullscreen",
+ "description": "Faça um tour 360 graus",
  "theme_color": "#FFFFFF",
- "start_url": "index.htm",
  "background_color": "#FFFFFF",
  "name": "Casa do Emilson",
- "description": "Faça um tour 360 graus"
+ "start_url": "index.htm"
 }
